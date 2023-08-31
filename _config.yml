@@ -1,15 +1,15 @@
 # general configuration
-url: http://excentris.net
+url: https://calciumargon.github.io
 baseurl: ''
 
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "/images/compass.png"
+  logo: "images/compass.png"
   # author will appear under the avatar (optional)
-  author: "Compass"
+  author: "Ray Tao"
   # tagline will appear under the title (optional)
-  tagline: "The <a href='http://jekyllrb.com'>Jekyll</a> theme for your personal landing page"
+  tagline: "<a href='http://jekyllrb.com'>Jekyll</a> I'm Taorui undergraduated student.I'm Taorui undergraduated student.I'm Taorui undergraduated student.I'm Taorui undergraduated student.I'm Taorui undergraduated student.I'm Taorui undergraduated student.\nI'm Taorui undergraduated student.I'm Taorui undergraduated student.I'm Taorui undergraduated student.I'm Taorui undergraduated student."
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
