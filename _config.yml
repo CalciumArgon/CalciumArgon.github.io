@@ -5,11 +5,11 @@ baseurl: ''
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: # "images/github_avatar_small.jpg"
+  logo: "images/ai_meeting.png"
   # author will appear under the avatar (optional)
   author: "Ray Tao"
   # tagline will appear under the title (optional)
-  tagline: "<a href='http://jekyllrb.com'>Jekyll</a> I'm Taorui undergraduated student.I'm Taorui undergraduated student.I'm Taorui undergraduated student.I'm Taorui undergraduated student.I'm Taorui undergraduated student.I'm Taorui undergraduated student.\nI'm Taorui undergraduated student.I'm Taorui undergraduated student.I'm Taorui undergraduated student.I'm Taorui undergraduated student."
+  tagline: 
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
