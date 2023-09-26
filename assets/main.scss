@@ -88,7 +88,7 @@ since it must be aligned with the content */
 /******/
 hr {
 	border: 0;
-	height: 5px;
+	height: 3px;
 	background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), $text-color, rgba(0,0,0,0));
 	background-image: -moz-linear-gradient(left, rgba(0,0,0,0), $text-color, rgba(0,0,0,0));
 	background-image: -ms-linear-gradient(left, rgba(0,0,0,0), $text-color, rgba(0,0,0,0));

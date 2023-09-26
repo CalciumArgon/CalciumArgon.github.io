@@ -1,0 +1,24 @@
+.zhihu-icon {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-image: url(../assets/zhihu.svg);
+    background-size: cover;
+  }
+
+.github-icon {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background-image: url(../assets/github.svg);
+  background-size: cover;
+}
+
+.email-icon {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background-image: url(../assets/email.svg);
+  background-size: cover;
+}
+  
