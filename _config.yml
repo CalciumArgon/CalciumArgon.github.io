@@ -9,7 +9,7 @@ compass:
   # author will appear under the avatar (optional)
   author: "Ray Tao"
   # tagline will appear under the title (optional)
-  tagline: <br><a href='https://www.sjtu.edu.cn/'>Shanghai Jiao Tong University</a> <br><br> <a href='https://www.seiee.sjtu.edu.cn/'>School of Electronic Information and Electrical Engineering</a>
+  tagline: <a href='https://www.sjtu.edu.cn/'>Shanghai Jiao Tong University</a> <br><br> <a href='https://www.seiee.sjtu.edu.cn/'>School of Electronic Information and Electrical Engineering</a>
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
