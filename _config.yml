@@ -5,7 +5,7 @@ baseurl: ''
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "images/ai_meeting.png"
+  logo: "images/close_up_xs.jpg"
   # author will appear under the avatar (optional)
   author: "Ray Tao"
   # tagline will appear under the title (optional)
