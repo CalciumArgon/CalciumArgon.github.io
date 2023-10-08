@@ -1,6 +1,8 @@
 # general configuration
-url: https://calciumargon.github.io
+url: "https://calciumargon.github.io"
 baseurl: ''
+
+picture_path: "https://calciumargon.github.io/images/cluse_up_xs.jpg"
 
 # compass configuration
 compass:
@@ -25,7 +27,7 @@ exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Dependencies
 markdown: kramdown
-highlighter: rouge
+highlighter: rouge  # 或 pygments
 
 # Permalinks
 permalink: pretty
