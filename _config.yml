@@ -2,7 +2,7 @@
 url: "https://calciumargon.github.io"
 baseurl: ''
 
-picture_path: "https://calciumargon.github.io/images/cluse_up_xs.jpg"
+picture_path: "/images/cluse_up_xs.jpg"
 
 # compass configuration
 compass:
