@@ -2,26 +2,36 @@
 layout: base
 ---
 <div class="wrapper">
-    <header>
-        {% if site.compass.logo %}
-        <div class="logo-container">
-          <a class="logo" href="{{ site.picture_path }}" style="background-image: url('{{ site.baseurl }}{{ site.compass.logo }}')"></a>
-        </div>
-        {% endif %}
+  <header style="
+    padding-right: 20px;
+    padding-left: 0px;
+    border-left-width: 0px;
+    width: 300px;">
+    {% if site.compass.logo %}
+    <div class="logo-container">
+      <a class="logo" href="{{ site.picture_path }}"
+        style="background-image: url('{{ site.baseurl }}{{ site.compass.logo }}')"></a>
+    </div>
+    {% endif %}
 
-        {% if site.compass.author %}
-        <div class="author-container"><h1>{{ site.compass.author }}</h1></div>
-        {% endif %}
+    {% if site.compass.author %}
+    <div class="author-container" style="
+    padding-top: 20px;">
+      <h1>{{ site.compass.author }}</h1>
+    </div>
+    {% endif %}
 
-        {% if site.compass.tagline %}
-        <div class="tagline-container"><p>{{ site.compass.tagline }}</p></div>
-        {% endif %}
-    </header>
-    <main>
-      {% if site.compass.include_content %}
-      <div class="content">
-        {% include content.html %}
-      </div>
-      {% endif %}
-    </main>
+    {% if site.compass.tagline %}
+    <div class="tagline-container">
+      <p>{{ site.compass.tagline }}</p>
+    </div>
+    {% endif %}
+  </header>
+  <main style="padding-top: 20px;">
+    {% if site.compass.include_content %}
+    <div class="content" style="width: 550px;">
+      {% include content.html %}
+    </div>
+    {% endif %}
+  </main>
 </div>
