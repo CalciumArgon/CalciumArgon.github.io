@@ -1,7 +1,7 @@
 body {
   font-family: 'Vollkorn', serif;
   color: #46433A;
-  background-color: #F1EED9; }
+  background-color: #FFFFFF; }
 
 header,
 main {
@@ -49,7 +49,7 @@ since it must be aligned with the content */
   background-size: cover;
   border-radius: 50%;
   -moz-border-radius: 50%;
-  border: 2px solid #F1EED9;
+  border: 2px solid #FFFFFF;
   box-shadow: 0 0 0 3px #46433A; }
 
 /*** author ***/
@@ -62,7 +62,7 @@ since it must be aligned with the content */
 /*** tagline ***/
 .tagline-container p {
   font-size: 1.3em;
-  text-align: center;
+  text-align: left;
   margin-bottom: 2em; }
 
 /******/
@@ -111,7 +111,7 @@ footer {
   .author-container h1,
   .logo-container,
   .tagline-container p {
-    text-align: right; }
+    text-align: left; }
 
   main {
     width: 46%;
