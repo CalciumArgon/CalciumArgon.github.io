@@ -9,7 +9,7 @@ compass:
   # an avatar or logo (optional)
   logo: "images/close_up_xs.jpg"
   # author will appear under the avatar (optional)
-  author: "Ray Tao"
+  author: "Rui Tao"
   # tagline will appear under the title (optional)
   tagline: <a href='https://www.sjtu.edu.cn/'>Shanghai Jiao Tong University</a> <br><br> <a href='https://www.seiee.sjtu.edu.cn/'>School of Electronic Information and Electrical Engineering</a>
   # if include_content is true, the contents of the content.html include will be

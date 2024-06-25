@@ -5,8 +5,17 @@ $text-color: #46433A;
 $anchor-text-color: #CE534D;
 $background-color: #F1EED9;
 
+@font-face {
+	font-family: 'Agave';
+	src: url("./Agave-Regular-slashed.ttf") format("truetype");
+}
+
+p {
+	line-height: 1.5;
+}
+
 body {
-	font-family: 'Vollkorn', serif;
+	font-family: 'Agave';
 	color: $text-color;
 	background-color: $background-color;
 }
