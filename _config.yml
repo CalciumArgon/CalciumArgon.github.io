@@ -27,7 +27,7 @@ exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Dependencies
 markdown: kramdown
-highlighter: rouge  # 或 pygments
+highlighter: rouge  # rouge 或 pygments
 
 # Permalinks
 permalink: pretty

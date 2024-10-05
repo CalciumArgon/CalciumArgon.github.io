@@ -5,6 +5,11 @@ $text-color: #46433A;
 $anchor-text-color: #CE534D;
 $background-color: #F1EED9;
 
+.textbox {
+	border: 1px solid black;
+	padding: 2px;
+}
+
 @font-face {
 	font-family: 'Agave';
 	src: url("./Agave-Regular-slashed.ttf") format("truetype");

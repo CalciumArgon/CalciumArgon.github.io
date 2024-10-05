@@ -1,3 +1,7 @@
+.textbox {
+  border: 1px solid black;
+  padding: 2px; }
+
 @font-face {
   font-family: 'Agave';
   src: url("./Agave-Regular-slashed.ttf") format("truetype"); }
