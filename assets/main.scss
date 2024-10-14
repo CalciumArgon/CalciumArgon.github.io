@@ -3,7 +3,8 @@
 
 $text-color: #46433A;
 $anchor-text-color: #CE534D;
-$background-color: #F1EED9;
+// $background-color: #F1EED9;
+$background-color: #FFFFFF;
 
 .textbox {
 	border: 1px solid black;
@@ -95,7 +96,7 @@ since it must be aligned with the content */
 /*** tagline ***/
 .tagline-container p {
 	font-size: 1.3em;
-	text-align: center;
+	text-align: left;
 	margin-bottom: 2em;
 }
 
@@ -153,7 +154,7 @@ footer {
 	.author-container h1,
 	.logo-container,
 	.tagline-container p {
-		text-align: right;
+		text-align: left;
 	}
 
 	main {
