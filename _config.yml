@@ -9,7 +9,7 @@ compass:
   # an avatar or logo (optional)
   logo: "images/close_up_xs.jpg"
   # author will appear under the avatar (optional)
-  author: "Ray Tao"
+  author: "Rui Tao"
   # tagline will appear under the title (optional)
   tagline: "<font size='4'><a href='https://www.sjtu.edu.cn/'>Shanghai Jiao Tong University</a> <br><br> <a href='https://www.seiee.sjtu.edu.cn/'>School of Electronic Information and Electrical Engineering</a></font>"
   # if include_content is true, the contents of the content.html include will be
@@ -27,7 +27,7 @@ exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Dependencies
 markdown: kramdown
-highlighter: rouge  # 或 pygments
+highlighter: rouge  # rouge 或 pygments
 
 # Permalinks
 permalink: pretty

@@ -1,5 +1,15 @@
+.textbox {
+  border: 1px solid black;
+  padding: 2px; }
+
+@font-face {
+  font-family: 'Agave';
+  src: url("./Agave-Regular-slashed.ttf") format("truetype"); }
+p {
+  line-height: 1.5; }
+
 body {
-  font-family: 'Vollkorn', serif;
+  font-family: 'Agave';
   color: #46433A;
   background-color: #FFFFFF; }
 
