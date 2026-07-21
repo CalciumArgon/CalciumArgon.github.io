@@ -127,3 +127,28 @@ footer {
     width: 46%;
     margin-left: 54%;
     padding: 0; } }
+/*** publication ***/
+.pub-row {
+  margin-bottom: 20px;
+  padding-bottom: 16px;
+  border-bottom: 1px dashed #aeaa9e; }
+
+.pub-img {
+  display: block;
+  max-width: 100%;
+  width: 100%;
+  margin-bottom: 10px;
+  border: 1px solid #46433A;
+  border-radius: 4px; }
+
+.pub-title {
+  font-size: 1.05em;
+  font-weight: bold;
+  margin: 0 0 4px 0;
+  line-height: 1.4; }
+
+.pub-authors {
+  font-size: 0.9em;
+  color: #706b5d;
+  margin: 0 0 6px 0;
+  line-height: 1.4; }
