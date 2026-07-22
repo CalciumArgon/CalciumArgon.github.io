@@ -136,17 +136,17 @@ footer {
 
 /* All other devices (768px and up) */
 @media (min-width: 768px) {
-	/* past 768px the layout is changed and the wrapper has a fixed width of 680px
+	/* past 768px the layout is changed and the wrapper has a fixed width of 820px
 	to accomodate both the header column and the content column */
 	.wrapper {
-		width: 680px;
+		width: 850px;
 	}
 
 	/* the header column stays left and has a dynamic width with all contents
 	aligned right */
 	header {
 		float: left;
-		width: 46%;
+		width: 34%;
 		text-align: right;
 	}
 
@@ -157,8 +157,8 @@ footer {
 	}
 
 	main {
-		width: 46%;
-		margin-left: 54%;
+		width: 56%;
+		margin-left: 44%;
 		padding: 0;
 	}
 }
@@ -173,7 +173,7 @@ footer {
 .pub-img {
 	display: block;
 	max-width: 100%;
-	width: 100%;
+	width: 70%;
 	margin-bottom: 10px;
 	border: 1px solid $text-color;
 	border-radius: 4px;
